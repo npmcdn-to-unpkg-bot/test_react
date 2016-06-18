@@ -1,0 +1,63 @@
+@font-face {
+		font-family: "Elegant-Lux";
+		src: url("fonts/ElegantLux-Mager.otf");
+	}
+	/*
+	@font-face {
+		font-family: "Pirou";
+		src: url("http:/stevenelleman.github.io/fonts/Pirou-Regular.otf");
+	}
+	
+	@font-face {
+		font-family: "Ailerons";
+		src: url("http:/stevenelleman.github.io/fonts/Ailerons-Typeface.otf");
+	}*/
+
+
+	@font-face {
+		font-family: "Bariol";
+		src: url("/Users/stevenelleman/Library/Fonts/bariol_regular-webfont.ttf");
+	}
+	@font-face {
+		font-family: "Bonn";
+		src: url("/Users/stevenelleman/Library/Fonts/bonn_light.ttf");
+	}
+
+	@font-face {
+		font-family: "Coves";
+		src: url("/Users/stevenelleman/Library/Fonts/Coves Light.otf");
+	}
+	@font-face {
+		font-family: "Madras";
+		src: url("/Users/stevenelleman/Library/Fonts/MadrasExtraLight.otf");
+	}
+	@font-face {
+		font-family: "Mohave";
+		src: url("/Users/stevenelleman/Library/Fonts/Mohave.otf");
+	}
+	@font-face {
+		font-family: "Stellar";
+		src: url("/Users/stevenelleman/Library/Fonts/Stellar-light.otf");
+	}
+	@font-face {
+		font-family: "Zefani";
+		src: url("/Users/stevenelleman/Library/Fonts/ZefaniStencil (Uppercase) -Regular.otf");
+	}
+
+	@font-face {
+		font-family: "Piers";
+		src: url("/Users/stevenelleman/Library/Fonts/pier-bold-italic.otf");
+	}
+	@font-face {
+		font-family: "Paralines";
+		src: url("/Users/stevenelleman/Library/Fonts/Paralines-Regular.otf");
+	}
+	@font-face {
+		font-family: "Moonshiner";
+		src: url("/Users/stevenelleman/Library/Fonts/Moonshiner-Regular.otf");
+	}
+	@font-face {
+		font-family: "Moon";
+		src: url("/Users/stevenelleman/Library/Fonts/Moon Light.otf");
+	}
+

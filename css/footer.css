@@ -1,0 +1,62 @@
+.footer_container {
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	clear: both;
+	border-top:1px;
+	border-color: white;
+	background-color: black;
+}
+
+.footer_container:hover {
+	opacity: 1;
+}
+
+.footer_inner_container {
+	vertical-align: middle;
+	text-align: center;
+	background-color: black;
+}
+
+.footer_link {
+	display: inline-block;
+	vertical-align: middle;
+	width: 35px;
+	height: 35px;
+	margin: 8px;
+	margin-left: 8px;
+	margin-right: 8px;
+}
+
+.footer_img {
+	max-height: 100%;
+	max-width: 100%;
+}
+
+.footer_img:hover {
+	opacity: 0.7;
+}
+
+.watermark {
+	vertical-align: middle;
+	display: inline-block;
+	margin: 10px;
+	height: 45px;
+	width: 50px;
+
+}
+
+.watermark_img {
+	max-height: 100%;
+	max-width: 100%;
+}
+
+.copyright {
+	text-align: center;
+	font-size: 1em;
+	bottom: 10px;
+	font-family: "Ailerons";
+	padding: 5px;
+	color: white;
+	background-color: black;
+}

@@ -1,0 +1,33 @@
+* { box-sizing: border-box; }
+
+.grid {
+	background-color: black;
+}
+
+.grid:after {
+	content: '';
+	display: block;
+	clear:both;
+}
+
+.grid-sizer, .grid-item {
+	width: 33.3333%;
+}
+
+.grid-item {
+	padding:2.5px;
+	float: left;
+}
+
+.grid-item img {
+	display: block;
+	max-width: 100%
+}
+
+.drawing_title {
+	color: white;
+    font-family: "Mohave";
+    text-align: center;
+    margin: 10px;
+    font-size: 20px;
+}

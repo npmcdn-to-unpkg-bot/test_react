@@ -1,0 +1,160 @@
+
+
+/* LINKS */
+#link_box {
+
+}
+.links {
+
+}
+
+/* MASONRY */
+.grid {
+
+}
+#grid_drawing {
+
+}
+#grid_sculpture {
+
+}
+.grid-sizer {
+
+}
+.grid-item {
+
+}
+
+/* PHOTO LINKS */
+.link_img {
+
+}
+.link_name {
+
+}
+.date_loc {
+
+}
+.link_type {
+
+}
+
+/* LINKS? */
+.drawing_title {
+
+}
+.sculpture_title {
+
+}
+
+/* BLOG */
+.blog_container {
+
+}
+.blog_collapsed {
+
+}
+.blog_header {
+
+}
+.blog_title {
+
+}
+.blog_date {
+
+}
+.blog_content {
+
+}
+.blog_footer {
+
+}
+
+/* PROJECT */
+.project_container {
+
+}
+.project_collapsed {
+
+}
+.project_header {
+
+}
+.project_title {
+
+}
+.project_date {
+
+}
+.project_contnet {
+
+}
+.project_footer {
+
+}
+/* ABOUT */
+.about_container {
+
+}
+.about_collapsed {
+
+}
+.about_header {
+
+}
+.about_title {
+
+}
+.about_content {
+
+}
+.about_footer {
+
+}
+/* GALLERY */
+.photo_gallery {
+
+}
+.photo_banner_container {
+
+}
+.photo_banner_title {
+
+}
+.content_page {
+
+}
+.exit {
+
+}
+
+/* FOOTER */
+.footer_container {
+
+}
+.footer_inner_container {
+
+}
+.footer_link {
+
+}
+.footer_img {
+
+}
+.watermark {
+
+}
+.copyright {
+
+}
+
+/* DOM CONTAINERS */
+.gallery_container {
+	display: none;
+}
+.content_container {
+	display: none;
+}
+.footer_outer_container {
+	display: none;
+}
